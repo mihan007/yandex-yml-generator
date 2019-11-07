@@ -1,0 +1,3049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2019-11-07 16:54">
+    <shop>
+        <name>Чемоданио</name>
+        <company>ООО "Чемоданио"</company>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="1">Аксессуары ACE GENE</category>
+            <category id="2">Косметичка ACE GENE</category>
+            <category id="3">Портфели ACE GENE</category>
+            <category id="4">Портпледы</category>
+            <category id="5" parentId="4">ACE GENE</category>
+            <category id="6" parentId="4">PROGRES</category>
+            <category id="7">Рюкзаки</category>
+            <category id="8" parentId="7">ACE GENE</category>
+            <category id="9" parentId="7">ACE</category>
+            <category id="10" parentId="7">Школьные Athlete</category>
+            <category id="11" parentId="7">PROGRES</category>
+            <category id="12">Сумки</category>
+            <category id="13" parentId="12">Дорожные ACE GENE</category>
+            <category id="14" parentId="12">Школьные Athlete</category>
+            <category id="15" parentId="12">Поясные Athlete Kids</category>
+            <category id="16" parentId="12">Поясные PROGRES</category>
+            <category id="17" parentId="12">Дорожные PROGRES</category>
+            <category id="18">Чемоданы</category>
+            <category id="19" parentId="18">Дорожные ACE GENE</category>
+            <category id="20" parentId="18">PROGRES</category>
+            <category id="21">Кошельки</category>
+            <category id="22" parentId="21">Athlete</category>
+            <category id="23" parentId="21">Athlete Kids</category>
+        </categories>
+        <url>http://chemodanio.ru/</url>
+        <platform>Paradox YML Generator</platform>
+        <version>0.1</version>
+        <agency>https://mssg.me/paradox777.ru</agency>
+        <email>mihail.kuklin@gmail.com</email>
+        <offers>
+            <offer id="1" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <price>1</price>
+                <name>Черный чехол для галстука</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>10081-01</vendorCode>
+                <url/>
+                <description>Чехол изготовлен из нейлона. Имеет размеры 8х12х8.</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/1/83.png</picture>
+                <picture>http://chemodanio.ru/yml/images/1/86.png</picture>
+                <picture>http://chemodanio.ru/yml/images/1/84.png</picture>
+                <picture>http://chemodanio.ru/yml/images/1/85.png</picture>
+            </offer>
+            <offer id="2" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <price>2</price>
+                <name>Черный чехол для одежды</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>10084-01</vendorCode>
+                <url/>
+                <description>Чехол изготовлен из нейлона. Имеет размеры 39х29х4</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/2/134.png</picture>
+            </offer>
+            <offer id="3" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <price>3</price>
+                <name>Черный чехол для галстука</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>10088-01</vendorCode>
+                <url/>
+                <description>Чехол изготовлен из нейлона. Имеет размеры 18х10х6.</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/3/132.png</picture>
+                <picture>http://chemodanio.ru/yml/images/3/133.png</picture>
+                <picture>http://chemodanio.ru/yml/images/3/131.png</picture>
+                <picture>http://chemodanio.ru/yml/images/3/130.png</picture>
+            </offer>
+            <offer id="4" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <price>4</price>
+                <name>Черный чехол для одежды</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>10091-01</vendorCode>
+                <url/>
+                <description>Чехол изготовлен из нейлона. Имеет размеры36х25х8</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="5" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <price>5</price>
+                <name>Черная косметичка</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>10082-01</vendorCode>
+                <url/>
+                <description>Косметичка имеет размеры 17х10х5</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/5/158.png</picture>
+                <picture>http://chemodanio.ru/yml/images/5/159.png</picture>
+                <picture>http://chemodanio.ru/yml/images/5/157.png</picture>
+                <picture>http://chemodanio.ru/yml/images/5/156.png</picture>
+                <picture>http://chemodanio.ru/yml/images/5/154.png</picture>
+                <picture>http://chemodanio.ru/yml/images/5/155.png</picture>
+                <picture>http://chemodanio.ru/yml/images/5/153.png</picture>
+            </offer>
+            <offer id="6" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <price>6</price>
+                <name>Черный портфель</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>10026-01</vendorCode>
+                <url/>
+                <description>Портфель изготовлен из нейлона. Имеет размеры 37x27x2</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/6/12.png</picture>
+            </offer>
+            <offer id="7" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <price>7</price>
+                <name>Черный портфель</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>10053-01</vendorCode>
+                <url/>
+                <description>Портфель изготовлен из нейлона.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="8" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <price>8</price>
+                <name>Черный портфель</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>10061-01</vendorCode>
+                <url/>
+                <description>Портфель изготовлен из нейлона.</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/8/126.png</picture>
+                <picture>http://chemodanio.ru/yml/images/8/125.png</picture>
+            </offer>
+            <offer id="9" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <price>9</price>
+                <name>Черный портфель</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>10071-01</vendorCode>
+                <url/>
+                <description>Портфель изготовлен из нейлона. Имеет размеры 55x49x6</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/9/8.png</picture>
+                <picture>http://chemodanio.ru/yml/images/9/9.png</picture>
+                <picture>http://chemodanio.ru/yml/images/9/4.png</picture>
+                <picture>http://chemodanio.ru/yml/images/9/5.png</picture>
+                <picture>http://chemodanio.ru/yml/images/9/7.png</picture>
+                <picture>http://chemodanio.ru/yml/images/9/6.png</picture>
+            </offer>
+            <offer id="10" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <price>10</price>
+                <name>Черный портфель</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>10093-01</vendorCode>
+                <url/>
+                <description>Портфель изготовлен из нейлона.</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/10/88.png</picture>
+                <picture>http://chemodanio.ru/yml/images/10/89.png</picture>
+                <picture>http://chemodanio.ru/yml/images/10/99.png</picture>
+                <picture>http://chemodanio.ru/yml/images/10/98.png</picture>
+                <picture>http://chemodanio.ru/yml/images/10/101.png</picture>
+                <picture>http://chemodanio.ru/yml/images/10/100.png</picture>
+                <picture>http://chemodanio.ru/yml/images/10/102.png</picture>
+                <picture>http://chemodanio.ru/yml/images/10/103.png</picture>
+                <picture>http://chemodanio.ru/yml/images/10/107.png</picture>
+                <picture>http://chemodanio.ru/yml/images/10/106.png</picture>
+                <picture>http://chemodanio.ru/yml/images/10/104.png</picture>
+            </offer>
+            <offer id="11" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <price>11</price>
+                <name>Черный портфель</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>10097-01</vendorCode>
+                <url/>
+                <description>Портфель изготовлен из нейлона. Имеет размеры 33x27x7</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/11/10.png</picture>
+            </offer>
+            <offer id="12" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <price>12</price>
+                <name>Черный портфель</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>30923-01</vendorCode>
+                <url/>
+                <description>Портфель изготовлен из натуральной кожи</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="13" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <price>13</price>
+                <name>Черный портфель</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>30924-01</vendorCode>
+                <url/>
+                <description>Портфель изготовлен из натуральной кожи</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/13/149.png</picture>
+                <picture>http://chemodanio.ru/yml/images/13/148.png</picture>
+                <picture>http://chemodanio.ru/yml/images/13/138.png</picture>
+                <picture>http://chemodanio.ru/yml/images/13/139.png</picture>
+                <picture>http://chemodanio.ru/yml/images/13/135.png</picture>
+                <picture>http://chemodanio.ru/yml/images/13/137.png</picture>
+                <picture>http://chemodanio.ru/yml/images/13/136.png</picture>
+                <picture>http://chemodanio.ru/yml/images/13/143.png</picture>
+                <picture>http://chemodanio.ru/yml/images/13/142.png</picture>
+                <picture>http://chemodanio.ru/yml/images/13/140.png</picture>
+                <picture>http://chemodanio.ru/yml/images/13/141.png</picture>
+            </offer>
+            <offer id="14" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <price>14</price>
+                <name>Черный портплед</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>28774-01</vendorCode>
+                <url/>
+                <description>Портплед изготовлен из нейлона. Имеет размеры 55x42x7. Вес-1170гр</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/14/162.png</picture>
+                <picture>http://chemodanio.ru/yml/images/14/161.png</picture>
+                <picture>http://chemodanio.ru/yml/images/14/160.png</picture>
+            </offer>
+            <offer id="15" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <price>15</price>
+                <name>Черный портплед</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>45814-01</vendorCode>
+                <url/>
+                <description>Портплед изготовлен из нейлона. Имеет размеры 55x44x7</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/15/129.png</picture>
+                <picture>http://chemodanio.ru/yml/images/15/128.png</picture>
+            </offer>
+            <offer id="16" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <price>16</price>
+                <name>Черный портплед</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>48166-01</vendorCode>
+                <url/>
+                <description>Портплед изготовлен из нейлона. Имеет размеры 55x49x6. Вес-760гр</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/16/11.png</picture>
+            </offer>
+            <offer id="17" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <price>17</price>
+                <name>Черный портплед</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>65118-01</vendorCode>
+                <url/>
+                <description>Портплед изготовлен из нейлона.</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/17/77.png</picture>
+                <picture>http://chemodanio.ru/yml/images/17/63.png</picture>
+                <picture>http://chemodanio.ru/yml/images/17/62.png</picture>
+                <picture>http://chemodanio.ru/yml/images/17/76.png</picture>
+                <picture>http://chemodanio.ru/yml/images/17/60.png</picture>
+                <picture>http://chemodanio.ru/yml/images/17/74.png</picture>
+                <picture>http://chemodanio.ru/yml/images/17/48.png</picture>
+                <picture>http://chemodanio.ru/yml/images/17/49.png</picture>
+                <picture>http://chemodanio.ru/yml/images/17/75.png</picture>
+                <picture>http://chemodanio.ru/yml/images/17/61.png</picture>
+                <picture>http://chemodanio.ru/yml/images/17/59.png</picture>
+            </offer>
+            <offer id="18" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>6</categoryId>
+                <price>18</price>
+                <name>Бежевый портплед</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20080-05</vendorCode>
+                <url/>
+                <description>Размеры 55x49x6</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="19" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>6</categoryId>
+                <price>19</price>
+                <name>Розовый портплед</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20080-11 PROGRES</vendorCode>
+                <url/>
+                <description>Размеры 55x49x6</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/19/115.png</picture>
+                <picture>http://chemodanio.ru/yml/images/19/114.png</picture>
+                <picture>http://chemodanio.ru/yml/images/19/116.png</picture>
+                <picture>http://chemodanio.ru/yml/images/19/117.png</picture>
+                <picture>http://chemodanio.ru/yml/images/19/113.png</picture>
+                <picture>http://chemodanio.ru/yml/images/19/112.png</picture>
+                <picture>http://chemodanio.ru/yml/images/19/110.png</picture>
+                <picture>http://chemodanio.ru/yml/images/19/111.png</picture>
+                <picture>http://chemodanio.ru/yml/images/19/120.png</picture>
+                <picture>http://chemodanio.ru/yml/images/19/121.png</picture>
+                <picture>http://chemodanio.ru/yml/images/19/123.png</picture>
+            </offer>
+            <offer id="20" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>6</categoryId>
+                <price>20</price>
+                <name>Голубой Портплед</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20080-15</vendorCode>
+                <url/>
+                <description>Размеры 55x49x6</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/20/2.png</picture>
+                <picture>http://chemodanio.ru/yml/images/20/3.png</picture>
+                <picture>http://chemodanio.ru/yml/images/20/1.png</picture>
+            </offer>
+            <offer id="21" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>8</categoryId>
+                <price>21</price>
+                <name>Черный рюкзак</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>48167-01</vendorCode>
+                <url/>
+                <description>Рюкзак изготовлен из нейлона. Имеет размеры 30х41х11</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="22" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <price>22</price>
+                <name>Черный рюкзак</name>
+                <model/>
+                <vendor>ACE</vendor>
+                <vendorCode>331251-01</vendorCode>
+                <url/>
+                <description>Рюкзак имеет ортопедическую съемную вставку. Размеры 25х34х14</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/22/163.png</picture>
+                <picture>http://chemodanio.ru/yml/images/22/164.png</picture>
+                <picture>http://chemodanio.ru/yml/images/22/170.png</picture>
+                <picture>http://chemodanio.ru/yml/images/22/171.png</picture>
+                <picture>http://chemodanio.ru/yml/images/22/165.png</picture>
+                <picture>http://chemodanio.ru/yml/images/22/173.png</picture>
+                <picture>http://chemodanio.ru/yml/images/22/167.png</picture>
+                <picture>http://chemodanio.ru/yml/images/22/166.png</picture>
+                <picture>http://chemodanio.ru/yml/images/22/172.png</picture>
+                <picture>http://chemodanio.ru/yml/images/22/168.png</picture>
+                <picture>http://chemodanio.ru/yml/images/22/169.png</picture>
+            </offer>
+            <offer id="23" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <price>23</price>
+                <name>Рюкзак цвета хаки</name>
+                <model/>
+                <vendor>ACE</vendor>
+                <vendorCode>331251-04</vendorCode>
+                <url/>
+                <description>Рюкзак имеет ортопедическую съемную вставку. Размеры 25х34х14</description>
+                <country_of_origin>Япония</country_of_origin>
+                <picture>http://chemodanio.ru/yml/images/23/127.png</picture>
+            </offer>
+            <offer id="24" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <price>24</price>
+                <name>Бежевый рюкзак</name>
+                <model/>
+                <vendor>ACE</vendor>
+                <vendorCode>331251-05</vendorCode>
+                <url/>
+                <description>Рюкзак имеет ортопедическую съемную вставку. Размеры 25х34х14</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="25" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <price>25</price>
+                <name>Красный рюкзак</name>
+                <model/>
+                <vendor>ACE</vendor>
+                <vendorCode>331251-10</vendorCode>
+                <url/>
+                <description>Рюкзак имеет ортопедическую съемную вставку. Размеры 25х34х14</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="26" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <price>26</price>
+                <name>Голубой рюкзак</name>
+                <model/>
+                <vendor>ACE</vendor>
+                <vendorCode>331251-15</vendorCode>
+                <url/>
+                <description>Рюкзак имеет ортопедическую съемную вставку. Размеры 25х34х14</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="27" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <price>27</price>
+                <name>Черный рюкзак</name>
+                <model/>
+                <vendor>ACE</vendor>
+                <vendorCode>331252-01</vendorCode>
+                <url/>
+                <description>Рюкзак имеет ортопедическую съемную вставку. Размеры 28х38х14,5</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="28" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <price>28</price>
+                <name>Рюкзак цвета хаки</name>
+                <model/>
+                <vendor>ACE</vendor>
+                <vendorCode>331252-04</vendorCode>
+                <url/>
+                <description>Рюкзак имеет ортопедическую съемную вставку. Размеры 28х38х14,5</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="29" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <price>29</price>
+                <name>Бежевый рюкзак</name>
+                <model/>
+                <vendor>ACE</vendor>
+                <vendorCode>331252-05</vendorCode>
+                <url/>
+                <description>Рюкзак имеет ортопедическую съемную вставку. Размеры 28х38х14,5</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="30" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <price>30</price>
+                <name>Красный рюкзак</name>
+                <model/>
+                <vendor>ACE</vendor>
+                <vendorCode>331252-10</vendorCode>
+                <url/>
+                <description>Рюкзак имеет ортопедическую съемную вставку. Размеры 28х38х14,5</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="31" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <price>31</price>
+                <name>Голубой рюкзак</name>
+                <model/>
+                <vendor>ACE</vendor>
+                <vendorCode>331252-15</vendorCode>
+                <url/>
+                <description>Рюкзак имеет ортопедическую съемную вставку. Размеры 28х38х14,5</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="32" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <price>32</price>
+                <name>Рюкзак цвета хаки</name>
+                <model/>
+                <vendor>ACE</vendor>
+                <vendorCode>331253-04</vendorCode>
+                <url/>
+                <description>Рюкзак имеет ортопедическую съемную вставку. Размеры 30х42х17</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="33" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <price>33</price>
+                <name>Бежевый рюкзак</name>
+                <model/>
+                <vendor>ACE</vendor>
+                <vendorCode>331253-05</vendorCode>
+                <url/>
+                <description>Рюкзак имеет ортопедическую съемную вставку. Размеры 30х42х17</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="34" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <price>34</price>
+                <name>Голубой рюкзак</name>
+                <model/>
+                <vendor>ACE</vendor>
+                <vendorCode>331253-15</vendorCode>
+                <url/>
+                <description>Рюкзак имеет ортопедическую съемную вставку. Размеры 30х42х17</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="35" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>35</price>
+                <name>Желтый рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70021-13</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="36" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>36</price>
+                <name>Красный рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70031-10</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="37" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>37</price>
+                <name>Розовый рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70031-11</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="38" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>38</price>
+                <name>Оранжевый рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70031-14</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="39" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>39</price>
+                <name>Красный рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70032-10</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="40" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>40</price>
+                <name>Розовый рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70032-11</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="41" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>41</price>
+                <name>Оранжевый рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70032-14</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="42" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>42</price>
+                <name>Голубой рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70032-15</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="43" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>43</price>
+                <name>Рюкзак цвета хаки</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70041-04</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="44" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>44</price>
+                <name>Красный рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70041-10</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="45" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>45</price>
+                <name>Розовый рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70041-11</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="46" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>46</price>
+                <name>Желтый рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70041-13</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="47" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>47</price>
+                <name>Голубой рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70041-15</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="48" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>48</price>
+                <name>Рюкзак цвета хаки</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70042-04</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="49" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>49</price>
+                <name>Красный рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70042-10</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="50" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>50</price>
+                <name>Розовый рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70042-11</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="51" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>51</price>
+                <name>Желтый рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70042-13</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="52" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>52</price>
+                <name>Голубой рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70042-15</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="53" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>53</price>
+                <name>Красный рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70051-10</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="54" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>54</price>
+                <name>Оранжевый рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70051-14</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="55" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>55</price>
+                <name>Голубой рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70051-15</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="56" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>56</price>
+                <name>Рюкзак цвета хаки</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70052-04</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="57" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>57</price>
+                <name>Красный рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70052-10</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="58" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>58</price>
+                <name>Розовый рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70052-11</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="59" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>59</price>
+                <name>Оранжевый рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70052-14</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="60" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>60</price>
+                <name>Голубой рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70052-15</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="61" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>61</price>
+                <name>Рюкзак цвета хаки</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70053-04</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="62" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>62</price>
+                <name>Красный рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70053-10</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="63" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>63</price>
+                <name>Розовый рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70053-11</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="64" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>64</price>
+                <name>Оранжевый рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70053-14</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="65" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>65</price>
+                <name>Голубой рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70053-15</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="66" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>66</price>
+                <name>Черный рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70062-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="67" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>67</price>
+                <name>Синий рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70062-03</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="68" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>68</price>
+                <name>Серый рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70062-09</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="69" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>69</price>
+                <name>Красный рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70062-10</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="70" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <price>70</price>
+                <name>Красный рюкзак</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70063-10</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="71" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>11</categoryId>
+                <price>71</price>
+                <name>Черный рюкзак</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20023-01</vendorCode>
+                <url/>
+                <description>Одно основное отделение, три кармана на молнии и два сбоку, мягкая спинка. В рюкзак можно
+                    попасть сверху и сбоку очень удобно! Изготовлен из нейлона и полиэстера. Размер 28x37x14. Объем
+                    14,5.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="72" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>11</categoryId>
+                <price>72</price>
+                <name>Бежевый рюкзак</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20023-05</vendorCode>
+                <url/>
+                <description>Одно основное отделение, три кармана на молнии и два сбоку, мягкая спинка. В рюкзак можно
+                    попасть сверху и сбоку очень удобно! Изготовлен из нейлона и полиэстера. Размер 28x37x14. Объем
+                    14,5.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="73" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>11</categoryId>
+                <price>73</price>
+                <name>Красный рюкзак</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20023-10</vendorCode>
+                <url/>
+                <description>Одно основное отделение, три кармана на молнии и два сбоку, мягкая спинка. В рюкзак можно
+                    попасть сверху и сбоку очень удобно! Изготовлен из нейлона и полиэстера. Размер 28x37x14. Объем
+                    14,5.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="74" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+                <price>74</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>10087-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="75" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+                <price>75</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>45801-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры 18x23x8</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="76" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+                <price>76</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>45802-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры 28x20x10</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="77" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+                <price>77</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>48162-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры 26x19x8. Вес 760 гр.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="78" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+                <price>78</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>48164-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры 27x20x8. Вес 360 гр.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="79" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+                <price>79</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>48168-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры 38x28x9. Вес 590 гр.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="80" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+                <price>80</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>48169-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры 41x31x12. Вес 680 гр.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="81" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+                <price>81</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>48171-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры 40x30x14-18. Вес-820гр</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="82" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+                <price>82</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>48173-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры 26x33x9</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="83" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+                <price>83</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>48174-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры 30x35x10</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="84" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+                <price>84</price>
+                <name>Черная дорожная сумка (колеса)</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>65227-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="85" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>14</categoryId>
+                <price>85</price>
+                <name>Синяя школьная сумка</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70003-03</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="86" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>14</categoryId>
+                <price>86</price>
+                <name>Красная школьная сумка</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70003-10</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="87" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>14</categoryId>
+                <price>87</price>
+                <name>Школьная сумка цвета хаки</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70013-04</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="88" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>14</categoryId>
+                <price>88</price>
+                <name>Бежевый школьная сумка</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70013-05</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="89" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>14</categoryId>
+                <price>89</price>
+                <name>Голубой школьная сумка</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70013-15</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="90" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>14</categoryId>
+                <price>90</price>
+                <name>Розовая школьная сумка</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70023-11</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="91" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>14</categoryId>
+                <price>91</price>
+                <name>Желтая школьная сумка</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70023-13</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="92" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>14</categoryId>
+                <price>92</price>
+                <name>Голубая школьная сумка</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70023-15</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="93" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>14</categoryId>
+                <price>93</price>
+                <name>Розовая школьная сумка</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70024-11</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="94" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>14</categoryId>
+                <price>94</price>
+                <name>Желтая школьная сумка</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70024-13</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="95" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>14</categoryId>
+                <price>95</price>
+                <name>Голубая школьная сумка</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70024-15</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="96" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>15</categoryId>
+                <price>96</price>
+                <name>Поясная сумка цвета хаки</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70014-04</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="97" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>15</categoryId>
+                <price>97</price>
+                <name>Бежевая поясная сумка</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70014-05</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="98" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>15</categoryId>
+                <price>98</price>
+                <name>Красная поясная сумка</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70014-10</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="99" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>15</categoryId>
+                <price>99</price>
+                <name>Розовая поясная сумка</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70014-11</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="100" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>15</categoryId>
+                <price>100</price>
+                <name>Голубая поясная сумка</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70014-15</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="101" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>16</categoryId>
+                <price>101</price>
+                <name>Бордовая поясная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20091-11</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона и кожи. Размеры - 20x13x5. Объем - 1,3.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="102" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>102</price>
+                <name>Красная дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>01231080-10</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 16x23x8</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="103" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>103</price>
+                <name>Красная дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>01231081-10</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 20x25x8</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="104" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>104</price>
+                <name>Красная дорожная сумка (на пояс)</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>01231083-10</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 26x16x7</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="105" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>105</price>
+                <name>Бежевая дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>01231087-05</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры - 45x33x20. Объем - 29,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="106" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>106</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>01231088-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры 48x33x25. Объем - 39,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="107" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>107</price>
+                <name>Бежевая дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>01231088-05</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры 48x33x25. Объем - 39,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="108" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>108</price>
+                <name>Сумка повседневная складная цвета хаки</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>02024-04</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры - 29x30x14. Объем - 12,2.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="109" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>109</price>
+                <name>Оранжевая повседневная складная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>02024-14</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры - 29x30x14. Объем - 12,2.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="110" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>110</price>
+                <name>Повседневная складная сумка цвета хаки</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>02025-04</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры - 27x34x12. Объем - 11.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="111" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>111</price>
+                <name>Оранжевая повседневная складная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>02025-14</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры - 27x34x12. Объем - 11.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="112" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>112</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20022-01</vendorCode>
+                <url/>
+                <description>Сумка имеет одно основное отделение и четыре кармана на молнии, плечевой ремень.
+                    Изготовлена из нейлона и полиэстера. Размеры - 31x21x11. Объем - 7,2.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="113" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>113</price>
+                <name>Бежевая дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20022-05</vendorCode>
+                <url/>
+                <description>Сумка имеет одно основное отделение и четыре кармана на молнии, плечевой ремень.
+                    Изготовлена из нейлона и полиэстера. Размеры - 31x21x11. Объем - 7,2.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="114" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>114</price>
+                <name>Красная дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20022-10</vendorCode>
+                <url/>
+                <description>Сумка имеет одно основное отделение и четыре кармана на молнии, плечевой ремень.
+                    Изготовлена из нейлона и полиэстера. Размеры - 31x21x11. Объем - 7,2.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="115" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>115</price>
+                <name>Бежевая дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20024-05</vendorCode>
+                <url/>
+                <description>Сумка имеет одно основное отделение и три кармана на молнии, плечевой ремень. Изготовлена
+                    из нейлона и полиэстера. Размеры - 38x26x15. Объем - 15.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="116" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>116</price>
+                <name>Красная дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20024-10</vendorCode>
+                <url/>
+                <description>Сумка имеет одно основное отделение и три кармана на молнии, плечевой ремень. Изготовлена
+                    из нейлона и полиэстера. Размеры - 38x26x15. Объем - 15.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="117" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>117</price>
+                <name>Бежевая дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20025-05</vendorCode>
+                <url/>
+                <description>Сумка имеет одно основное отделение и четыре кармана на молнии, плечевой ремень.
+                    Изготовлена из нейлона и полиэстера. Размеры - 43x29x18. Объем - 22,5.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="118" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>118</price>
+                <name>Красная дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20025-10</vendorCode>
+                <url/>
+                <description>Сумка имеет одно основное отделение и четыре кармана на молнии, плечевой ремень.
+                    Изготовлена из нейлона и полиэстера. Размеры - 43x29x18. Объем - 22,5.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="119" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>119</price>
+                <name>Бежевая дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20045-09</vendorCode>
+                <url/>
+                <description>Сумка имеет одно основное отделение и два кармана на молнии и два сбоку, косметичку,
+                    плечевой ремень. Изготовлена из нейлона. Размеры - 43x28x18. Объем - 22.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="120" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>120</price>
+                <name>Бордовая повседневная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20092-11</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона и кожи. Размеры - 26x17x8. Объем - 3,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="121" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>121</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20094-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона и кожи. Размеры - 38x27x20. Объем - 20,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="122" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>122</price>
+                <name>Бежевая дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20094-05</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона и кожи. Размеры - 38x27x20. Объем - 20,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="123" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>123</price>
+                <name>Бордовая дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20094-11</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона и кожи. Размеры - 38x27x20. Объем - 20,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="124" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>124</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20095-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона и кожи. Размеры - 42x29x20. Объем - 24,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="125" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>125</price>
+                <name>Бежевая дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20095-05</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона и кожи. Размеры - 42x29x20. Объем - 24,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="126" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>126</price>
+                <name>Бордовая дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>20095-11</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона и кожи. Размеры - 42x29x20. Объем - 24,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="127" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>127</price>
+                <name>Черная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>231534-01</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 35x27x16. Объем - 15,2.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="128" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>128</price>
+                <name>Синяя сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>231534-03</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 35x27x16. Объем - 15,2.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="129" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>129</price>
+                <name>Черная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>231535-01</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 40x35x19. Объем - 15,2.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="130" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>130</price>
+                <name>Синяя сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>231535-03</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 40x35x19. Объем - 15,2.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="131" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>131</price>
+                <name>Черная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>231536-01</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 40x27x16. Объем - 17,3.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="132" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>132</price>
+                <name>Синяя сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>231536-03</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 40x27x16. Объем - 17,3.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="133" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>133</price>
+                <name>Черная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>231537-01</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 45x26x18. Объем - 21.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="134" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>134</price>
+                <name>Синяя сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>231537-03</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 45x26x18. Объем - 21.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="135" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>135</price>
+                <name>Бежевая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>233153-05</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона и экокожи. Размеры - 30x20x10. Объем - 6.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="136" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>136</price>
+                <name>Бежевая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>233154-05</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона и экокожи. Размеры - 35x22x12. Объем - 9,2.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="137" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>137</price>
+                <name>Бордовая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>233154-07</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона и экокожи. Размеры - 35x22x12. Объем - 9,2.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="138" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>138</price>
+                <name>Бежевая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>233155-05</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона и экокожи. Размеры - 38x30x15. Объем - 17,1.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="139" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>139</price>
+                <name>Бордовая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>233155-07</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона и экокожи. Размеры - 38x30x15. Объем - 17,1.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="140" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>140</price>
+                <name>Бежевая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>233156-05</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона и экокожи. Размеры - 42x28x16. Объем - 18,8.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="141" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>141</price>
+                <name>Бордовая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>233156-07</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона и экокожи. Размеры - 42x28x16. Объем - 18,8.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="142" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>142</price>
+                <name>Бежевая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>233157-05</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона и экокожи. Размеры - 46x27x17. Объем - 21,1.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="143" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>143</price>
+                <name>Черная повседневная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>25084-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры - 26x19x10. Объем - 5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="144" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>144</price>
+                <name>Черная повседневная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>25087-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры - 30x28x16. Объем - 13,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="145" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>145</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>25088-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры - 40x28x15. Объем - 16,8.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="146" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>146</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>25089-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры - 45x30x20. Объем - 27.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="147" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>147</price>
+                <name>Черная дорожная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>25090-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из нейлона. Размеры - 50x33x23. Объем - 38.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="148" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>148</price>
+                <name>Черная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28331-01</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 21x23x6. Объем - 2,9.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="149" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>149</price>
+                <name>Черная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28333-01</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 30x23x12. Объем - 8,3.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="150" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>150</price>
+                <name>Черная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28335-01</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 36x28x15. Объем - 15.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="151" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>151</price>
+                <name>Черная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28336-01</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 42x30x16. Объем - 20.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="152" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>152</price>
+                <name>Золотисто-коричневая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28336-05</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 42x30x16. Объем - 20.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="153" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>153</price>
+                <name>Черная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28337-01</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 47x33x20. Объем - 31.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="154" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>154</price>
+                <name>Черный саквояж</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28571-01</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 34x32x12. Объем - 13.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="155" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>155</price>
+                <name>Зеленый саквояж</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28571-04</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 34x32x12. Объем - 13.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="156" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>156</price>
+                <name>Черный саквояж</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28573-01</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 38x34x15. Объем - 29,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="157" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>157</price>
+                <name>Зеленый саквояж</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28573-04</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 38x34x15. Объем - 29,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="158" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>158</price>
+                <name>Черный саквояж</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28574-01</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 42x36x20. Объем - 30.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="159" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>159</price>
+                <name>Бежевая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28751-05</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 27x17x8. Объем - 3,6.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="160" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>160</price>
+                <name>Синяя сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28752-03</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 48x40x14. Объем - 26,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="161" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>161</price>
+                <name>Бежевая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28752-05</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 48x40x14. Объем - 26,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="162" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>162</price>
+                <name>Бежевая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28753-05</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 40x33x19. Объем - 25.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="163" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>163</price>
+                <name>Бежевая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28754-05</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 58x36x19. Объем - 43.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="164" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>164</price>
+                <name>Синяя сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28755-03</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 46x30x20. Объем - 27,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="165" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>165</price>
+                <name>Бежевая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28755-05</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 46x30x20. Объем - 27,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="166" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>166</price>
+                <name>Черная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28761-01</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 26x25x3. Объем - 2.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="167" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>167</price>
+                <name>Сиреневая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28761-07</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 26x25x3. Объем - 2.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="168" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>168</price>
+                <name>Черная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28762-01</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 27x19x8. Объем - 4.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="169" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>169</price>
+                <name>Сиреневая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28762-07</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 27x19x8. Объем - 4.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="170" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>170</price>
+                <name>Черная сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28763-01</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 26x27x8. Объем - 5,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="171" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>171</price>
+                <name>Сиреневая сумка</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28763-07</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 26x27x8. Объем - 5,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="172" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>172</price>
+                <name>Коричневая дорожная сумка (колеса)</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>48236-08</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 38x30x19 или 47x30x23. Объем - от 22 до 32.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="173" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>173</price>
+                <name>Коричневая дорожная сумка (колеса)</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>48237-08</vendorCode>
+                <url/>
+                <description>Сумка имеет размеры 40x33x20 или 41x40x20. Объем - от 26 до 33.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="174" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>174</price>
+                <name>Черная дорожная сумка (колеса)</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>51116-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из полиэстера. Размеры - 44/36х35х20. Объем - 25.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="175" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>175</price>
+                <name>Зеленая дорожная сумка (колеса)</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>51116-04</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из полиэстера. Размеры - 44/36х35х20. Объем - 25.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="176" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>176</price>
+                <name>Черная дорожная сумка (колеса)</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>51117-01</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из полиэстера. Размеры - 50/44х35х24. Объем - 37.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="177" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>17</categoryId>
+                <price>177</price>
+                <name>Зеленая дорожная сумка (колеса)</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>51117-04</vendorCode>
+                <url/>
+                <description>Сумка изготовлена из полиэстера. Размеры - 50/44х35х24. Объем - 37.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="178" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>19</categoryId>
+                <price>178</price>
+                <name>Черный чемодан</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>10076-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="179" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>19</categoryId>
+                <price>179</price>
+                <name>Черный чемодан</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>30920-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="180" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>19</categoryId>
+                <price>180</price>
+                <name>Черный чемодан</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>45821-01</vendorCode>
+                <url/>
+                <description>Чемодан изготовлен из нейлона. Имеет 2 колеса. Размеры - 40x35x22 / 41x37x24</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="181" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>19</categoryId>
+                <price>181</price>
+                <name>Черный чемодан</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>45823-01</vendorCode>
+                <url/>
+                <description>Чемодан изготовлен из нейлона. Имеет 4 колеса. Размеры - 43x40x24. Объем - 41.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="182" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>19</categoryId>
+                <price>182</price>
+                <name>Черный чемодан</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>48526-01</vendorCode>
+                <url/>
+                <description>Чемодан изготовлен из полиэстера. Имеет 2 колеса. Размеры - 40х36х22/27, объем - 32/39 или
+                    41x40x24/29, объем - 41/47. Вес - 2,7.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="183" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>19</categoryId>
+                <price>183</price>
+                <name>Черный чемодан</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>48527-01</vendorCode>
+                <url/>
+                <description>Чемодан изготовлен из полиэстера. Имеет 4 колеса. Размеры - 41х36х22, объем - 32,5 с
+                    увеличением 42x40x25, объем - 42. Вес - 3,1.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="184" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>19</categoryId>
+                <price>184</price>
+                <name>Черный чемодан</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>48528-01</vendorCode>
+                <url/>
+                <description>Чемодан изготовлен из полиэстера. Имеет 4 колеса. Размеры - 45x36x22, объем - 36 с
+                    увеличением 46х40х25, объем - 46. Вес - 3,2.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="185" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>19</categoryId>
+                <price>185</price>
+                <name>Черный чемодан</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>65119-01</vendorCode>
+                <url/>
+                <description>Чемодан изготовлен из нейлона. Имеет 2 колеса, колеса можно отсоединить. Размеры -
+                    42x33x17.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="186" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>19</categoryId>
+                <price>186</price>
+                <name>Черный чемодан</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>65120-01</vendorCode>
+                <url/>
+                <description>Чемодан изготовлен из нейлона. Имеет 2 колеса, колеса можно отсоединить. Размеры -
+                    49x35x18.
+                </description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="187" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>19</categoryId>
+                <price>187</price>
+                <name>Черный чемодан</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>65130-01</vendorCode>
+                <url/>
+                <description>Чемодан изготовлен из нейлона. Имеет 2 колеса. Размеры - 43x34x21.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="188" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>19</categoryId>
+                <price>188</price>
+                <name>Черный чемодан</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>65134-01</vendorCode>
+                <url/>
+                <description>Чемодан изготовлен из нейлона. Имеет 2 колеса. Размеры - 55x38x23.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="189" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>19</categoryId>
+                <price>189</price>
+                <name>Черный чемодан</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>65135-01</vendorCode>
+                <url/>
+                <description>Чемодан изготовлен из нейлона. Имеет 2 колеса. Размеры - 60x42x24.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="190" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>19</categoryId>
+                <price>190</price>
+                <name>Черный чемодан</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>65143-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="191" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>19</categoryId>
+                <price>191</price>
+                <name>Черный чемодан</name>
+                <model/>
+                <vendor>ACE GENE</vendor>
+                <vendorCode>65144-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="192" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>20</categoryId>
+                <price>192</price>
+                <name>Бежевый чемодан</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>236003-05</vendorCode>
+                <url/>
+                <description>Чемодан изготовлен из нейлона и экокожи. Размеры - 51x34x24. Объем - 41,6.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="193" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>20</categoryId>
+                <price>193</price>
+                <name>Бежевый чемодан</name>
+                <model/>
+                <vendor>PROGRES</vendor>
+                <vendorCode>28756-05</vendorCode>
+                <url/>
+                <description>Чемодан изготовлен из нейлона и экокожи. Размеры - 43x34x21. Объем - 30,5.</description>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="194" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>194</price>
+                <name>Черный кошелек</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>0199941-1-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="195" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>195</price>
+                <name>Оранжевый кошелек</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>0199941-1-14</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="196" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>196</price>
+                <name>Синий кошелек</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>0199941-1-15</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="197" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>197</price>
+                <name>Черный кошелек</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>0199941-2-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="198" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>198</price>
+                <name>Оранжевый кошелек</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>0199941-2-14</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="199" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>199</price>
+                <name>Синий кошелек</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>0199941-2-15</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="200" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>200</price>
+                <name>Серый кошелек</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>0199943-9-09</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="201" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>201</price>
+                <name>Черный портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60091-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="202" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>202</price>
+                <name>Черный портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60092-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="203" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>203</price>
+                <name>Серый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60092-09</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="204" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>204</price>
+                <name>Черный портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60094-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="205" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>205</price>
+                <name>Серый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60094-09</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="206" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>206</price>
+                <name>Черный портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60095-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="207" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>207</price>
+                <name>Серый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60095-09</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="208" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>208</price>
+                <name>Черный портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60097-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="209" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>209</price>
+                <name>Серый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60098-09</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="210" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>210</price>
+                <name>Портмоне цвета хаки</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60132-04</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="211" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>211</price>
+                <name>Серый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60132-09</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="212" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>212</price>
+                <name>Красный портионе</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60132-10</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="213" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>213</price>
+                <name>Оранжевый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60132-14</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="214" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>214</price>
+                <name>Портмоне цвета хаки</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60133-04</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="215" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>215</price>
+                <name>Серый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60133-09</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="216" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>216</price>
+                <name>Красный портионе</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60133-10</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="217" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>217</price>
+                <name>Черный портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60134-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="218" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>218</price>
+                <name>Портмоне цвета хаки</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60134-04</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="219" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>219</price>
+                <name>Серый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60134-09</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="220" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>220</price>
+                <name>Красный портионе</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60134-10</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="221" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>221</price>
+                <name>Оранжевый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60134-14</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="222" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>222</price>
+                <name>Портмоне цвета хаки</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60135-04</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="223" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>223</price>
+                <name>Серый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60135-09</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="224" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>224</price>
+                <name>Красный портионе</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60135-10</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="225" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>225</price>
+                <name>Оранжевый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60135-14</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="226" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>226</price>
+                <name>Розовый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60141-11</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="227" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>227</price>
+                <name>Серый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60142-09</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="228" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>228</price>
+                <name>Розовый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60142-11</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="229" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>229</price>
+                <name>Черный портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60143-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="230" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>230</price>
+                <name>Серый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60143-09</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="231" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>231</price>
+                <name>Розовый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60143-11</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="232" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>232</price>
+                <name>Черный портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60144-01</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="233" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>233</price>
+                <name>Серый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60144-09</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="234" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>234</price>
+                <name>Розовый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60144-11</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="235" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+                <price>235</price>
+                <name>Розовый портмоне</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>60145-11</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="236" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>23</categoryId>
+                <price>236</price>
+                <name>Кошелек детский цвета хаки</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70018-04</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="237" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>23</categoryId>
+                <price>237</price>
+                <name>Бежевый кошелек детский</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70018-05</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="238" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>23</categoryId>
+                <price>238</price>
+                <name>Красный кошелек детский</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70018-10</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="239" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>23</categoryId>
+                <price>239</price>
+                <name>Розовый кошелек детский</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70018-11</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+            <offer id="240" available="true">
+                <currencyId>RUR</currencyId>
+                <categoryId>23</categoryId>
+                <price>240</price>
+                <name>Голубой кошелек детский</name>
+                <model/>
+                <vendor>Athlete</vendor>
+                <vendorCode>70018-15</vendorCode>
+                <url/>
+                <description/>
+                <country_of_origin>Япония</country_of_origin>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>

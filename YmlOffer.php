@@ -245,10 +245,8 @@ class YmlOffer extends DomElement
             $desc->appendChild($cdata);
             return $this;
         } else {
-            return $this->add('description');
+            return $this->add('description', $txt);
         }
-
-
     }
 
     function __call($method, $args)
